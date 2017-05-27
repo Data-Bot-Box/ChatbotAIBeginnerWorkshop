@@ -16,7 +16,7 @@ Practical Seq-to-Seq chatbot based upon twitter data here: [Suryia's Practicial 
 Your 'homework' assignments are listed below.  The second assignment, a Snarky Reddit Chatbot, is the same as Stanford University homework assignment found here: [Stanford Course Homework Slides](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf) lines and obtain the correct or a correct movie dialog response!
 2)   to make a chatbot that runs off of Reddit data.  We have provided a 'naughty word' filter and code for your convenience so you can make your bot PG-13.
 
-Just for fun, here's a video of Cookie Monster's 'Shower Thoughts' [Cookie Monster Shower Thoughts](https://youtu.be/wBNJ0BH3Dgs) Dataset May 2015](ww.kaggle.com/reddit/reddit-comments-may-2015) which is what your Reddit chatbot uses for training data.  We will also upload a sub-reddit dataset from May of 2015 that lists only Shower Thoughts dialog.
+Just for fun, here's a video of Cookie Monster's 'Shower Thoughts' [Cookie Monster Shower Thoughts](https://youtu.be/wBNJ0BH3Dgs) [Dataset May 2015](ww.kaggle.com/reddit/reddit-comments-may-2015) which is what your Reddit chatbot uses for training data.  We will also upload a sub-reddit dataset from May of 2015 that lists only Shower Thoughts dialog.
 
 Happy coding and have fun! In a week we will post the code for making the Reddit chatbot -- we just thought we would give you a chance to try it on your own.  The code will require a password for access, as we don't want to give away Stanford's homework assignment!
 
