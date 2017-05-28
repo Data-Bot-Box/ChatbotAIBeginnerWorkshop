@@ -20,6 +20,7 @@ Just for fun, here's a video of Cookie Monster's 'Shower Thoughts' [Cookie Monst
 
 Happy coding and have fun! In a week we will post the code for making the Reddit chatbot -- we just thought we would give you a chance to try it on your own.  The code will require a password for access, as we don't want to give away Stanford's homework assignment!
 
-For using a platform to training your AI-driven chatbot try Bitfusion, at www.bitfusion.io!
+For using a platform to training your AI-driven chatbot try Bitfusion, at www.bitfusion.io!  For a limited time you can try out the platform via Sandbox.
+
 For workshops on AI and rapid prototyping see, www.databotbox.com
 
